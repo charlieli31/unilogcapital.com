@@ -65,7 +65,7 @@ a:hover {
   padding-top: 10px;
 }
 .navigation .navbar .navbar-nav > li > a {
-  color: #5C5C5C;
+  color: #5c5c5c;
   padding: 10px 15px;
   font-weight: 500;
   font-size: 14px;
@@ -87,7 +87,7 @@ a:hover {
   transition: all 0.3s ease;
 }
 .navigation .navbar .dropdown-menu a:hover {
-  background: #655E7A;
+  background: #655e7a;
   color: #fff;
   padding-left: 25px;
 }
@@ -153,26 +153,5 @@ a:hover {
 .elements .feature-item p {
   font-size: 14px;
   color: #808080;
-}
-
-.call-to-action-landing {
-  background-color: #1A1B1F;
-}
-.call-to-action-landing h2 {
-  color: #fff;
-  margin-bottom: 30px;
-}
-.call-to-action-landing .btn {
-  padding: 24px 80px;
-  border-radius: 100px;
-  text-transform: uppercase;
-}
-.call-to-action-landing .btn-blue {
-  color: #fff;
-  background: #655E7A;
-}
-.call-to-action-landing .btn-gray {
-  background: #2E7EED;
-  color: #fff;
 }
 /*# sourceMappingURL=landing-page.css.map */
